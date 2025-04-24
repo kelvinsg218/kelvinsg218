@@ -1,7 +1,7 @@
 # Olá! Eu sou o Kelvin 👋
 
 🎓 Estudante de Sistemas de Informação na UCL  
-💻 Desenvolvedor Front-End em formação  
+💻 Desenvolvedor back-end em formação
 🚀 Buscando aprender e evoluir todos os dias
 
 ### 🚧 Tecnologias que estou estudando:

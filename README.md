@@ -7,6 +7,7 @@
 ### 🚧 Tecnologias que estou estudando:
 - HTML5 | CSS3 | JavaScript
 - Git & GitHub
+- python
 - Frameworks (em breve...)
 
 ### 📫 Contato:

@@ -1,4 +1,4 @@
-Olá! Eu sou o Kelvin 👋
+Olá! Eu sou o Kelvin 
 Estudante de Sistemas de Informação na UCL – Campus Manguinhos
 Desenvolvedor Back-End em formação
 Apaixonado por tecnologia e sempre em busca de evolução constante

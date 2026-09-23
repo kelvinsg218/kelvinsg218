@@ -10,56 +10,54 @@
 
 ### SOBRE
 
-Estudante de **Sistemas de Informação** e desenvolvedor Back-End em formação.
+Estudante de **Sistemas de Informação** e desenvolvedor **Back-End em formação**.
 
-Atualmente direcionando meus estudos para **Python, Go e Cloud Computing**, com interesse em APIs, arquitetura e desenvolvimento de sistemas.
+Atualmente direcionando meus estudos para **Python, Go e Cloud Computing**, com interesse em desenvolvimento de APIs, arquitetura e construção de sistemas.
 
 ```text
 > Espírito Santo, Brasil
 > foco: backend / cloud
-> status: em evolução constante...
+> status: construindo...
 ```
 
 ### TECNOLOGIAS
 
 <div align="center">
 
-<img height="32" src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,github" />
+<img height="30" src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,github" />
+
+<br>
+
+<sub>JavaScript · Node.js · MySQL · Git · GitHub</sub>
 
 <br><br>
 
-<sub>ESTUDANDO</sub>
+<sub><b>ESTUDANDO</b></sub>
 
 <br><br>
 
-<img height="32" src="https://skillicons.dev/icons?i=python,go,aws,azure" />
+<img height="30" src="https://skillicons.dev/icons?i=python,go,aws,azure" />
+
+<br>
+
+<sub>Python · Go · AWS · Azure</sub>
 
 </div>
 
-### ATIVIDADE
-
-<div align="center">
-
-<img height="145" src="https://github-readme-stats.vercel.app/api?username=kelvinss218&show_icons=true&theme=transparent&hide_border=true&title_color=657A47&icon_color=657A47&text_color=8B949E&hide_title=true" />
-
-<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinss218&layout=compact&theme=transparent&hide_border=true&title_color=657A47&text_color=8B949E" />
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
+### CONTATO
+
 <a href="mailto:garciakelvin604@gmail.com">
-<img height="25" src="https://img.shields.io/badge/EMAIL-1B2118?style=flat-square&logo=gmail&logoColor=657A47">
+  <img src="https://img.shields.io/badge/Email-1B2118?style=for-the-badge&logo=gmail&logoColor=7D9255" />
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/kelvin-simões-4890432b7/">
-<img height="25" src="https://img.shields.io/badge/LINKEDIN-1B2118?style=flat-square&logo=linkedin&logoColor=657A47">
+  <img src="https://img.shields.io/badge/LinkedIn-1B2118?style=for-the-badge&logo=linkedin&logoColor=7D9255" />
 </a>
-
-<br><br>
-
-<sub><code>sem hype. só evolução.</code></sub>
 
 </div>

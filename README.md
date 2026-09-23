@@ -2,154 +2,64 @@
 
 # KELVIN SIMÕES
 
-### BACK-END DEVELOPER // SYSTEMS & CLOUD
-
-`BUILDING.` `LEARNING.` `EVOLVING.`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=657A47&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Sistemas+de+Informa%C3%A7%C3%A3o;Python+%7C+Go+%7C+Cloud;Construindo.+Aprendendo.+Evoluindo." />
 
 </div>
 
 ---
 
-## // WHO AM I
+### SOBRE
+
+Estudante de **Sistemas de Informação** e desenvolvedor Back-End em formação.
+
+Atualmente direcionando meus estudos para **Python, Go e Cloud Computing**, com interesse em APIs, arquitetura e desenvolvimento de sistemas.
 
 ```text
-$ whoami
-
-> Kelvin Simões
-> Sistemas de Informação
 > Espírito Santo, Brasil
-> Back-End Development
+> foco: backend / cloud
+> status: em evolução constante...
 ```
 
-Desenvolvedor **Back-End em formação**, construindo minha base através de projetos reais, estudo constante e experiência na área de tecnologia.
-
-Atualmente direcionando meus estudos para **Back-End, Cloud Computing e APIs**, explorando novas tecnologias e buscando evoluir na construção de software.
-
----
-
-## // TECH STACK
-
-### MAIN TOOLS
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,github,vscode" />
-</p>
-
-### CURRENTLY LOADING...
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,aws,azure" />
-</p>
-
-```text
-Python      [████████░░]  learning
-Go          [██████░░░░]  learning
-AWS         [█████░░░░░]  learning
-Azure       [█████░░░░░]  learning
-```
-
----
-
-## // CURRENT MISSION
-
-```yaml
-kelvin:
-  role: "Back-End Developer in progress"
-
-  focus:
-    - Backend Development
-    - REST APIs
-    - Cloud Computing
-    - Software Architecture
-
-  learning:
-    - Python
-    - Go
-    - AWS
-    - Azure
-
-  mindset: "build > fail > learn > repeat"
-```
-
----
-
-## // GITHUB DATA
+### TECNOLOGIAS
 
 <div align="center">
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=kelvinss218&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-/>
+<img height="32" src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,github" />
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinss218&layout=compact&theme=github_dark&hide_border=true"
-/>
+<br><br>
+
+<sub>ESTUDANDO</sub>
+
+<br><br>
+
+<img height="32" src="https://skillicons.dev/icons?i=python,go,aws,azure" />
 
 </div>
 
-<br>
+### ATIVIDADE
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=kelvinss218&theme=github-dark-blue&hide_border=true" />
+<img height="145" src="https://github-readme-stats.vercel.app/api?username=kelvinss218&show_icons=true&theme=transparent&hide_border=true&title_color=657A47&icon_color=657A47&text_color=8B949E&hide_title=true" />
+
+<img height="145" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinss218&layout=compact&theme=transparent&hide_border=true&title_color=657A47&text_color=8B949E" />
 
 </div>
 
 ---
-
-## // CONTRIBUTION GRID
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kelvinss218/kelvinss218/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## // WHAT I'M BUILDING
-
-```text
-[01] Backend Development
-     └── APIs, services and business logic
-
-[02] Cloud
-     └── AWS & Azure fundamentals
-
-[03] Languages
-     └── Python & Go
-
-[04] Next Level
-     └── Architecture, DevOps & scalable systems
-```
-
----
-
-## // CONNECTION
 
 <div align="center">
 
 <a href="mailto:garciakelvin604@gmail.com">
-  <img src="https://img.shields.io/badge/MAIL-111111?style=for-the-badge&logo=gmail&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/EMAIL-1B2118?style=flat-square&logo=gmail&logoColor=657A47">
 </a>
 
 <a href="https://www.linkedin.com/in/kelvin-simões-4890432b7/">
-  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img height="25" src="https://img.shields.io/badge/LINKEDIN-1B2118?style=flat-square&logo=linkedin&logoColor=657A47">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-```text
-$ status
-> still building...
-
-NO HYPE. JUST CODE.
-```
+<sub><code>sem hype. só evolução.</code></sub>
 
 </div>

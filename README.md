@@ -1,63 +1,143 @@
+
 <div align="center">
 
-# KELVIN SIMÕES
+# KELVIN GARCIA
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=657A47&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End+em+forma%C3%A7%C3%A3o;Sistemas+de+Informa%C3%A7%C3%A3o;Python+%7C+Go+%7C+Cloud;Construindo.+Aprendendo.+Evoluindo." />
+### Backend Development • Cloud Computing • Building Useful Software
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:09090F,45:43217C,100:6D28D9&text=KELVIN%20GARCIA&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=Developer%20%7C%20Technology%20%7C%20Innovation&descAlignY=60&animation=fadeIn" width="100%" alt="Banner Kelvin Garcia" />
+
+[![GitHub](https://img.shields.io/badge/GitHub-kelvinsg218-181717?style=for-the-badge&logo=github)](https://github.com/kelvinsg218)
+![Profile views](https://komarev.com/ghpvc/?username=kelvinsg218&style=for-the-badge&color=6D28D9)
 
 </div>
 
----
+## 🧑‍💻 About Me
 
-### SOBRE
+<table>
+<tr>
+<td width="60%">
 
-Estudante de **Sistemas de Informação** e desenvolvedor **Back-End em formação**.
-
-Atualmente direcionando meus estudos para **Python, Go e Cloud Computing**, com interesse em desenvolvimento de APIs, arquitetura e construção de sistemas.
-
-```text
-> Espírito Santo, Brasil
-> foco: backend / cloud
-> status: construindo...
+```javascript
+const kelvin = {
+  location: "Espírito Santo, Brazil 🇧🇷",
+  education: "Information Systems",
+  interests: ["Backend", "Cloud", "Automation"],
+  currentlyLearning: ["Python", "Go", "AWS", "Azure"],
+  experience: ["IT Support", "System Implementation"],
+  building: "Practical software solutions",
+  languages: {
+    portuguese: "Native",
+    english: "Learning"
+  },
+  motto: "Learn. Build. Improve."
+};
 ```
 
-### TECNOLOGIAS
+</td>
+<td width="40%" align="center">
+
+**From ideas to working solutions.**
+
+I enjoy building APIs, automation tools and software that solves real problems.
+
+I use AI tools as development support while continuously improving my technical skills.
+
+</td>
+</tr>
+</table>
+
+## 🛠️ Tech Stack & Learning
 
 <div align="center">
 
-<img height="30" src="https://skillicons.dev/icons?i=js,nodejs,mysql,git,github" />
+**Technologies I've worked with**
 
-<br>
+<img src="https://skillicons.dev/icons?i=js,nodejs,express,html,css,react,git,github,vscode,mysql&theme=dark" alt="Technologies" />
 
-<sub>JavaScript · Node.js · MySQL · Git · GitHub</sub>
+**Currently exploring**
 
-<br><br>
-
-<sub><b>ESTUDANDO</b></sub>
-
-<br><br>
-
-<img height="30" src="https://skillicons.dev/icons?i=python,go,aws,azure" />
-
-<br>
-
-<sub>Python · Go · AWS · Azure</sub>
+<img src="https://skillicons.dev/icons?i=python,go,aws,azure,docker&theme=dark" alt="Learning roadmap" />
 
 </div>
 
-<br>
+## 🚀 Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Business Location Intelligence
+
+Geographic business analysis with competitors, complementary businesses, traffic generators and opportunity scoring.
+
+`Node.js` `Express` `REST API` `React` `Google Maps APIs`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖥️ Peripheral Asset Tracker
+
+Project focused on tracking computer peripherals and device fingerprinting.
+
+`Asset Tracking` `IT Tools` `Automation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ Windows Maintenance Agent
+
+Windows maintenance and diagnostic automation project.
+
+`Windows` `Diagnostics` `Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+Explore my repositories, experiments and ongoing learning journey.
+
+[**View repositories →**](https://github.com/kelvinsg218?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### CONTATO
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kelvinsg218&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub statistics" />
 
-<a href="mailto:garciakelvin604@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1B2118?style=for-the-badge&logo=gmail&logoColor=7D9255" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kelvin-simões-4890432b7/">
-  <img src="https://img.shields.io/badge/LinkedIn-1B2118?style=for-the-badge&logo=linkedin&logoColor=7D9255" />
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinsg218&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Most used languages in public repositories" />
+
+<img src="https://streak-stats.demolab.com?user=kelvinsg218&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kelvinsg218&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kelvinsg218&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
+
+</div>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kelvinsg218)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+
+*Open to collaborating on meaningful software projects.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:09090F,50:43217C,100:6D28D9" width="100%" alt="Footer" />
 
 </div>
